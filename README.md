@@ -15,7 +15,13 @@ This search engine is a simple way to look up and save books to your account. It
 You will need to run the following: npm i then npm run start
 
 ## Usage
-The usage of this product is to be able to search for and save books you may be interested in. 
+The usage of this product is to be able to search for and save books you may be interested in. Below is the sample video.
+
+
+
+https://user-images.githubusercontent.com/110738676/220268205-36ec8843-0b94-42c3-9b16-0a3c3c2d8c85.mp4
+
+
 
 ## Contribution
 If you would like to contribute contact me below. Thank you to peers for contributing . 
